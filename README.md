@@ -1,5 +1,5 @@
 <div align="center">
-  <object type="image/svg+xml" data="./Ahoy!%20Raghav%20Here....svg" width="640" height="140">
+  <object type="image/svg+xml" data="./Animation.svg" width="640" height="140">
   </object>
 </div>
 
