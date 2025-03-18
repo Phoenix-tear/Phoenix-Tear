@@ -1,9 +1,8 @@
 <div align="center">
-  <object type="image/svg+xml" data="./Animation.svg" width="640" height="140">
-  </object>
+  <img src="./Animation.svg" width="640" height="140" alt="Ahoy! Raghav here">
 </div>
 
-## Hi there, I am Raghav. 👋
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Phoenix-tear)
 
 <!--
