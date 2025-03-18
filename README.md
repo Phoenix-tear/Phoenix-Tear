@@ -1,3 +1,5 @@
+![Animated SVG][/Ahoy! Raghav Here....svg]
+
 ## Hi there, I am Raghav. 👋
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Phoenix-tear)
 
