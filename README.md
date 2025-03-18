@@ -1,4 +1,7 @@
-![Animated SVG][/Ahoy! Raghav Here....svg]
+<div align="center">
+  <object type="image/svg+xml" data="./Ahoy!%20Raghav%20Here....svg" width="640" height="140">
+  </object>
+</div>
 
 ## Hi there, I am Raghav. 👋
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Phoenix-tear)
