@@ -13,7 +13,7 @@
                     fill-opacity: 1;
                 }
             }
-            
+
             /* Brightness animation cycle */
             @keyframes brightnessAnimation {
                 0%, 75% {
@@ -23,15 +23,15 @@
                     opacity: 0.5;
                 }
             }
-            
-            /* Font definition */
+
+            /* Font definition - Local WOFF File */
             @font-face {
                 font-family: 'Dancing Script';
                 font-style: normal;
                 font-weight: 700;
-                src: url(https://fonts.gstatic.com/s/dancingscript/v25/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp6.woff) format('woff');
+                src: url('./If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp6.woff') format('woff');
             }
-            
+
             /* Full text */
             .full-text {
                 font-size: 72px;
@@ -50,14 +50,14 @@
                     brightnessAnimation 10s ease-in-out infinite;
                 animation-delay: 0s, 10s;
             }
-            
+
             /* Container group for the text and shadow */
             .text-container {
                 filter: drop-shadow(4px 4px 4px rgba(23, 229, 252, 0.7));
             }
         </style>
     </defs>
-    
+
     <!-- Main text with left and bottom shadow only -->
     <g class="text-container">
         <text class="full-text" x="50%" y="50%">Ahoy! Raghav here</text>
