@@ -15,15 +15,15 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/raghav-agarwal-7019a5290/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="Icon 1" width="50">
+    <img src="/linkedin.svg" alt="Icon 1" width="50">
   </a>
 
   <a href="https://www.linkedin.com/in/raghav-agarwal-7019a5290/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=80447&format=png&color=000000" alt="Icon 2" width="50">
+    <img src="/twitter.svg" width="50">
   </a>
 
   <a href="https://www.linkedin.com/in/raghav-agarwal-7019a5290/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=5eT5OnLluNOx&format=png&color=000000" alt="Icon 2" width="50">
+    <img src="/instagram.svg" alt="Icon 2" width="50">
   </a>
 </div>
 
