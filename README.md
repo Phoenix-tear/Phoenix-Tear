@@ -9,18 +9,20 @@
 <div id="user-content-toc" align="center">
   <ul>
     <summary>
-      <h2 style="display: inline-block">I’m currently deep diving into Machine Learning</h2>
+      <h2 style="display: inline-block">I’m currently deep diving into Machine Learning.</h2><br>
+      <h2 style="display: inline-block">Connect with me on :-</h2>
     </summary>
   </ul>
+
 
   <p align="center">
     <a href="https://www.linkedin.com/in/raghav-agarwal-7019a5290/" target="_blank" style="border: none; text-decoration: none;">
       <img src="https://raw.githubusercontent.com/Phoenix-tear/Phoenix-Tear/main/linkedin.svg" alt="LinkedIn" width="50">
     </a>
-    <a href="https://twitter.com" target="_blank" style="border: none; text-decoration: none;">
+    <a href="https://x.com/Raghav93119026" target="_blank" style="border: none; text-decoration: none;">
       <img src="https://raw.githubusercontent.com/Phoenix-tear/Phoenix-Tear/main/twitter.svg" alt="Twitter" width="50">
     </a>
-    <a href="https://instagram.com" target="_blank" style="border: none; text-decoration: none;">
+    <a href="https://www.instagram.com/raghav_100505/" target="_blank" style="border: none; text-decoration: none;">
       <img src="https://raw.githubusercontent.com/Phoenix-tear/Phoenix-Tear/main/instagram.svg" alt="Instagram" width="50">
     </a>
   </p>
