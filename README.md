@@ -58,7 +58,7 @@
 
 ---
 
-###  Featured Projects
+###  Featured Projects 
 
 -  [**Acadmate**](https://acadmate.in/attendance) – An academic portal/assistant
 -  [**Crowd Management System**](https://github.com/Phoenix-tear/Crowd-Management-System) – A yolo model to detect large crowds
